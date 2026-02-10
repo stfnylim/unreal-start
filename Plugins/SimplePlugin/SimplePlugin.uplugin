@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"EngineVersion": "5.7.0",
+	"VersionName": "1.0",
+	"FriendlyName": "Simple Plugin",
+	"Description": "A minimal C++ plugin demonstrating basic plugin structure and editor integration",
+	"Category": "Other",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SimplePlugin",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

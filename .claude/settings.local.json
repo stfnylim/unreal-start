@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(rsync:*)"
+      "Bash(rsync:*)",
+      "Bash(git -C \"c:\\\\Users\\\\stephanie.lim\\\\src\\\\unreal-start\" log --oneline -3)",
+      "Bash(robocopy:*)",
+      "Bash(echo:*)",
+      "Bash(MSYS_NO_PATHCONV=1 robocopy:*)"
     ]
   }
 }

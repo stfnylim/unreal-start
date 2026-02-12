@@ -23,4 +23,5 @@ private:
 
 	/** Command list that maps UI commands to actions */
 	TSharedPtr<FUICommandList> PluginCommands;
+	// testing
 };
